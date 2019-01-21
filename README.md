@@ -35,7 +35,7 @@ Web client to download events from Daily Connect
 Interface to DailyConnect, which is a service that can provide information about
 your kids at daycare.  This is more or less a port of a node API that I found here:
 
-https://github.com/Flet/dailyconnect
+[https://github.com/Flet/dailyconnect](https://github.com/Flet/dailyconnect)
 
 I wrote this module for more or less the same reasons as that author, although I
 wanted to be able to use it in perl.
