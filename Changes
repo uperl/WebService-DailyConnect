@@ -3,6 +3,7 @@ Revision history for {{$dist->name}}
 {{$NEXT}}
 
 0.02      2019-01-21 11:15:04 -0500
+  - First CPAN release
 
 0.01      2018-09-30 08:29:41 -0400
   - initial version
