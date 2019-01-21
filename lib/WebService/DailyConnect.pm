@@ -302,6 +302,9 @@ sub photo
 DailyConnect does not provide a standard RESTful API, so it is entirely possible
 they might change the interface of their app, and break this module.
 
+My kiddo is an only child so I haven't been able to test this for more than one
+kiddo.  May be a problem if you have twins or septuplets.
+
 =cut
 
 1;
