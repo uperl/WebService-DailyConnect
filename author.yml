@@ -10,6 +10,7 @@ pod_spelling_system:
     - YYMMDD
     - req
     - ua
+    - septuplets
 
 pod_coverage:
   skip: 0
