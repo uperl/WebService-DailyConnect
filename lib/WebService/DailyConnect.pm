@@ -2,7 +2,7 @@ package WebService::DailyConnect;
 
 use strict;
 use warnings;
-use 5.008001;
+use 5.010;
 use Moose;
 use URI;
 use Carp ();
