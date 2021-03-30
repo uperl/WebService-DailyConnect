@@ -1,4 +1,4 @@
-# WebService::DailyConnect ![linux](https://github.com/plicease/WebService-DailyConnect/workflows/linux/badge.svg)
+# WebService::DailyConnect ![linux](https://github.com/uperl/WebService-DailyConnect/workflows/linux/badge.svg)
 
 Web client to download events from Daily Connect
 
@@ -33,6 +33,9 @@ foreach my $kid (@{ $dc->user_info->{myKids} })
 ```
 
 # DESCRIPTION
+
+**NOTE**: I no longer use DailyConnect, and happy to let someone who does need it
+maintain it.  This module is otherwise unsupported.
 
 Interface to DailyConnect, which is a service that can provide information about
 your kids at daycare.  This is more or less a port of a node API that I found here:

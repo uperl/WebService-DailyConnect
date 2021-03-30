@@ -16,6 +16,9 @@ use Carp ();
 
 =head1 DESCRIPTION
 
+B<NOTE>: I no longer use DailyConnect, and happy to let someone who does need it
+maintain it.  This module is otherwise unsupported.
+
 Interface to DailyConnect, which is a service that can provide information about
 your kids at daycare.  This is more or less a port of a node API that I found here:
 
