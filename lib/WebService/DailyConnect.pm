@@ -102,7 +102,7 @@ around BUILDARGS => sub {
     require HTTP::AnyUA;
     HTTP::AnyUA->new(ua => $args{ua});
   }
-  
+
   return $class->$orig(%args);
 };
 
