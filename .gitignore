@@ -1,2 +1,4 @@
 /WebService-DailyConnect-*
 /.build
+*.old
+*.orig
